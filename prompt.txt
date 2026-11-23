@@ -1,0 +1,6 @@
+Build the entry for make.fun's "Dad Joke Showdown" bounty (u-mfnakmal-dad-joke-showdown-1d2ce3e5).
+Write a Python 3.13 program, main.py at the repo root, that deterministically writes one
+original dad joke to /output/entry.txt as UTF-8 text of 1-200 characters, no network, no
+randomness. The joke must be a father-at-the-table dad joke with a clean first-read pun,
+fresh rather than a tired classic, tight with the punchline last, and natural read aloud.
+Also ship README.md (from the provided template), MIT LICENSE, and .gitignore.
