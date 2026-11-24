@@ -7,7 +7,7 @@ The joke: a father-at-the-table dialogue. The son asks why dad's knees
 crack every time he stands up; the punchline turns the cracking sound
 into applause -- a "standing ovation" -- so the pun lands on the first
 read, the setup is a classic dad scene, and the punchline arrives last.
-Deterministic, no network, no randomness.
+Deterministic, no network, no randomness, no external input.
 """
 
 import os
