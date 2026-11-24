@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 # Program output (entry.txt is written here at run time)
 /output/
+# Submission bundle (built locally, never committed)
+bundle.tar.gz
