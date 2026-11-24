@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/georgeonweb3/makefun-dad-joke-showdown/rank.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5)
 [![reward](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/georgeonweb3/makefun-dad-joke-showdown/reward.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5)
 
-One original dad joke for make.fun's Dad Joke Showdown: a father-at-the-table dialogue where dad's cracking knees earn him a standing ovation. The program writes the joke to /output/entry.txt.
+A single original dad joke for make.fun's Dad Joke Showdown: dad's knees crack every time he rises from the table, and he hears a standing ovation. The program writes the joke to /output/entry.txt.
 
 ## Run it
 
